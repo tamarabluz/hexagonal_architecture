@@ -95,3 +95,9 @@ Lhexagonal/src/main/java/com/tamara/hexagonal/config/KafkaConsumerConfig.java,3
 ihexagonal/src/main/java/com/tamara/hexagonal/application/ports/output/SendCpfForValidationOutputPort.java,d\7\d7aad3a452aa8e432cba1a50151494be68c4ee27
 ä
 Zhexagonal/src/main/java/com/tamara/hexagonal/adapters/output/SendCpfValidationAdapter.java,a\5\a533128825e2b6c2e94de8f514494a26c8d206bd
+ù
+mhexagonal/src/main/java/com/tamara/hexagonal/adapters/input/consumer/message/ReceiveValidatedCpfConsumer.java,f\3\f3ad2dc5f416645db5e93838be9980eaad6ee3f8
+ï
+ehexagonal/src/main/java/com/tamara/hexagonal/adapters/input/consumer/ReceiveValidatedCpfConsumer.java,e\b\ebea5304e333d78fe4b84d31b3e616093fc2374d
+ñ
+fhexagonal/src/main/java/com/tamara/hexagonal/adapters/input/consumer/mapper/CustomerMessageMapper.java,4\8\484fc8facff083ba5e31a14debeea8f4b00ec411
