@@ -51,3 +51,11 @@ bhexagonal/src/main/java/com/tamara/hexagonal/application/core/usecase/FindCusto
 ehexagonal/src/main/java/com/tamara/hexagonal/application/ports/output/FindCustomerByIdOutputPort.java,6\5\652a0ae5ff0337f43ed5e5272bba6fd41f04dc80
 ‰
 Yhexagonal/src/main/java/com/tamara/hexagonal/adapters/output/FindCustomerByIdAdapter.java,1\5\15fdcf5b114bd64147aaa016adbcd0169f495335
+•
+ehexagonal/src/main/java/com/tamara/hexagonal/adapters/input/controller/response/CustomerResponse.java,c\d\cd10b40f833e2b4df608bfebab149cc6181e3e61
+”
+dhexagonal/src/main/java/com/tamara/hexagonal/adapters/input/controller/response/AddressResponse.java,7\e\7e5053d4a3bf3516ec4144d7f71b35457721d7a2
+“
+chexagonal/src/main/java/com/tamara/hexagonal/application/ports/input/FindCustomerByIdImputPort.java,1\b\1b7d3aa559ac301c29d37974dcbf8ab4a0236941
+“
+chexagonal/src/main/java/com/tamara/hexagonal/application/ports/input/FindCustomerByIdInputPort.java,9\a\9ae64ec0d7b560f74054b168322b3cca652ed4ad
