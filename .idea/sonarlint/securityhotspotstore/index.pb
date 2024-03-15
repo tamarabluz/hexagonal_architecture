@@ -85,3 +85,9 @@ Mhexagonal/src/main/java/com/tamara/hexagonal/config/UpdateCustomerConfig.java,
 `hexagonal/src/main/java/com/tamara/hexagonal/application/core/usecase/UpdateCustomerUseCase.java,4\7\4739327dbd598fbe8091ca69f47ed4d8682d854c
 Å
 Qhexagonal/src/main/java/com/tamara/hexagonal/config/DeleteCustomerByIdConfig.java,d\7\d7f0f7724146b89289ce50d82244e0d5b523bbfb
+|
+Lhexagonal/src/main/java/com/tamara/hexagonal/config/KafkaProducerConfig.java,8\1\8199c837fa7bbd57bb533a423b03fe81cf3d0adc
+ë
+ahexagonal/src/main/java/com/tamara/hexagonal/adapters/input/consumer/message/CustomerMessage.java,d\b\db47308d86d31cfd1bca6b3861c0e02e0bb56a75
+|
+Lhexagonal/src/main/java/com/tamara/hexagonal/config/KafkaConsumerConfig.java,3\3\33028848de58ba2ae571314b4ea41b6d33a24459
