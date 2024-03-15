@@ -4,6 +4,7 @@ import com.tamara.hexagonal.adapters.input.controller.mapper.CustomerMapper;
 import com.tamara.hexagonal.adapters.input.controller.request.CustomerRequest;
 import com.tamara.hexagonal.adapters.input.controller.response.CustomerResponse;
 import com.tamara.hexagonal.application.core.domain.Customer;
+import com.tamara.hexagonal.application.ports.input.DeleteCustomerByIdInputPort;
 import com.tamara.hexagonal.application.ports.input.FindCustomerByIdInputPort;
 import com.tamara.hexagonal.application.ports.input.InsertCustomerInputPort;
 import com.tamara.hexagonal.application.ports.input.UpdateCustomerInputPort;
@@ -24,6 +25,8 @@ public class CustomerController {
     private FindCustomerByIdInputPort findCustomerByIdInputPort;
     @Autowired
     private UpdateCustomerInputPort updateCustomerInputPort;
+    @Autowired
+    private DeleteCustomerByIdInputPort deleteCustomerByIdInputPort;
 
     @PostMapping
     public ResponseEntity<Void>insert(@Valid @RequestBody CustomerRequest customerRequest){
@@ -45,6 +48,12 @@ public class CustomerController {
         Customer customer = customerMapper.toCustomer(customerRequest);
         customer.setId(id);
         updateCustomerInputPort.update(customer, customerRequest.getZipCode());
+        return ResponseEntity.noContent().build();
+    }
+
+    @DeleteMapping("{/id}")
+    public ResponseEntity<Void> delete(@PathVariable final String id){
+        deleteCustomerByIdInputPort.delete(id);
         return ResponseEntity.noContent().build();
     }
 }
