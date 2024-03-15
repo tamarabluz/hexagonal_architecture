@@ -35,3 +35,13 @@ _hexagonal/src/main/java/com/tamara/hexagonal/adapters/output/repository/Custome
 Whexagonal/src/main/java/com/tamara/hexagonal/adapters/output/InsertCustomerAdapter.java,5\2\52bc640de9c3b36c1adb708e886ebc29fc611b4d
 ˜
 hhexagonal/src/main/java/com/tamara/hexagonal/adapters/output/repository/mapper/CustomerEntityMapper.java,0\f\0f5472186eefafda8a219e4111c93edcad935250
+Ž
+^hexagonal/src/main/java/com/tamara/hexagonal/adapters/input/controller/CustomerController.java,e\9\e9ba2848fcf0b97302432d8e88c49628ab258e94
+“
+chexagonal/src/main/java/com/tamara/hexagonal/adapters/input/controller/request/CustomerRequest.java,f\8\f866df4c2ea6dab9cc424697c02b153e66d0a959
+‘
+ahexagonal/src/main/java/com/tamara/hexagonal/application/ports/input/InsertCustomerInputPort.java,b\a\ba8febb6dcf11accdfda74d528b3f2f5bebae3c1
+‚
+Rhexagonal/src/main/java/com/tamara/hexagonal/adapters/input/controller/mapper.java,a\c\ac9bc1430bf90a24f4ef4eaa2191b174618af1cc
+‘
+ahexagonal/src/main/java/com/tamara/hexagonal/adapters/input/controller/mapper/CustomerMapper.java,5\5\5505bbb690c993fbfb013a8033dd02545027fad6
