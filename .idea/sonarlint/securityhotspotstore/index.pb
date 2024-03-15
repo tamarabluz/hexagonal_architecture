@@ -67,3 +67,7 @@ chexagonal/src/main/java/com/tamara/hexagonal/application/ports/output/UpdateCus
 Whexagonal/src/main/java/com/tamara/hexagonal/adapters/output/UpdateCustomerAdapter.java,7\a\7a64563e51c9f9ace9bbd02856c32440d664c246
 ‘
 ahexagonal/src/main/java/com/tamara/hexagonal/application/ports/input/UpdateCustomerInputPort.java,6\c\6cee0920d637f99fd0bf8be0b9cde14e970a874a
+”
+dhexagonal/src/main/java/com/tamara/hexagonal/application/core/usecase/DeleteCustomerByIdUseCase.java,f\b\fbe251bdb07ec1035b80bce3497418bc91cd91a5
+—
+ghexagonal/src/main/java/com/tamara/hexagonal/application/ports/output/DeleteCustomerByIdOutputPort.java,e\2\e2df6518728f21247ca2b149d078daa973cb0b0b
