@@ -15,3 +15,7 @@ Mhexagonal/src/main/java/com/tamara/hexagonal/application/core/usecase/pu.java,
 ihexagonal/src/main/java/com/tamara/hexagonal/application/ports/output/FindAddressByZipCodeOutputPort.java,4\1\41c3f8d0a85eab6023e081f9c4abc23a70dba608
 “
 chexagonal/src/main/java/com/tamara/hexagonal/application/ports/output/InsertCustomerOutputPort.java,f\2\f2f3911f13790617b97e9974f7e250fa565c97f4
+‘
+ahexagonal/src/main/java/com/tamara/hexagonal/adapters/output/client/FindAddressZipCodeClient.java,5\4\54040b58467bbef3e963d2506cea16dd7cd95953
+‘
+ahexagonal/src/main/java/com/tamara/hexagonal/adapters/output/client/response/AddressResponse.java,d\d\dda0665565b065a80653e4cd599425534020e070
