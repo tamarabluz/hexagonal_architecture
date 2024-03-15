@@ -31,3 +31,7 @@ chexagonal/src/main/java/com/tamara/hexagonal/adapters/output/repository/entitie
 hhexagonal/src/main/java/com/tamara/hexagonal/adapters/output/repository/entities/CustomerRepository.java,4\a\4a7c8bb59670f7b83ce53b57aaeaa4ceeae2e7af
 è
 _hexagonal/src/main/java/com/tamara/hexagonal/adapters/output/repository/CustomerRepository.java,7\2\728a74302bbd61ac44df879e7464c6f14dd6c55b
+á
+Whexagonal/src/main/java/com/tamara/hexagonal/adapters/output/InsertCustomerAdapter.java,5\2\52bc640de9c3b36c1adb708e886ebc29fc611b4d
+ò
+hhexagonal/src/main/java/com/tamara/hexagonal/adapters/output/repository/mapper/CustomerEntityMapper.java,0\f\0f5472186eefafda8a219e4111c93edcad935250
