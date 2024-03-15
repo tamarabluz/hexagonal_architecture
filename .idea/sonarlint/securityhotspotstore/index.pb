@@ -101,3 +101,5 @@ mhexagonal/src/main/java/com/tamara/hexagonal/adapters/input/consumer/message/Re
 ehexagonal/src/main/java/com/tamara/hexagonal/adapters/input/consumer/ReceiveValidatedCpfConsumer.java,e\b\ebea5304e333d78fe4b84d31b3e616093fc2374d
 –
 fhexagonal/src/main/java/com/tamara/hexagonal/adapters/input/consumer/mapper/CustomerMessageMapper.java,4\8\484fc8facff083ba5e31a14debeea8f4b00ec411
+Y
+)hexagonal/docker-local/docker-compose-yml,e\3\e3242a9d1c0d196cb08265c6ca263f495d62d65e
