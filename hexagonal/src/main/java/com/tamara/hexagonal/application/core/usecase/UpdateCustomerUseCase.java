@@ -6,12 +6,12 @@ import com.tamara.hexagonal.application.ports.input.UpdateCustomerInputPort;
 import com.tamara.hexagonal.application.ports.output.FindAddressByZipCodeOutputPort;
 import com.tamara.hexagonal.application.ports.output.UpdateCustomerOutputPort;
 
-public class UptadeCustomerUseCase implements UpdateCustomerInputPort {
+public class UpdateCustomerUseCase implements UpdateCustomerInputPort {
     private final FindCustomerByIdInputPort findCustomerByIdInputPort;
     private final FindAddressByZipCodeOutputPort findAddressByZipCodeOutputPort;
     private final UpdateCustomerOutputPort updateCustomerOutputPort;
 
-    public UptadeCustomerUseCase(FindCustomerByIdInputPort findCustomerByIdInputPort,
+    public UpdateCustomerUseCase(FindCustomerByIdInputPort findCustomerByIdInputPort,
                                  FindAddressByZipCodeOutputPort findAddressByZipCodeOutputPort,
                                  UpdateCustomerOutputPort updateCustomerOutputPort) {
         this.findCustomerByIdInputPort = findCustomerByIdInputPort;
